@@ -1,0 +1,13 @@
+1.  Write a single general routine to calculate the total kinetic energy (KE) of    a system containing
+
+ (a) N identical atoms with mass m_1 and velocity components, v_ix, v_iy, v_iz
+     respectively.
+
+ (b) mixture of two components containing N_1 atoms with mass m_1 and velocity
+     components v_ix, v_iy, v_iz, and N_2 atoms with mass m_2 and velocity
+     components w_ix, w_iy, w_iz, respectively.
+
+     Calculate the KE of the system containing 10 particles from the
+     supplied velocities (File: velocity-data) .
+
+     Submit the code and the KE result.
